@@ -1,6 +1,7 @@
-Hi there 👋
-I am @erroor234.
-Just learning now
+<div id="header" align="left">
+  <img src="https://media3.giphy.com/media/XwBzLXzYq7ljHBXkHk/giphy.gif?cid=ecf05e478px8yhr2x75qav21998u7wwv1ovz0aurqs5prs09&rid=giphy.gif&ct=s" width="100"/>
+</div>
+
 <!--
 **erroor234/erroor234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
